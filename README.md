@@ -1,4 +1,5 @@
-Quickly hacked together Arduino shield to program other Arduino's. Can also be used to program the old AT90S1200 microcontroller using avrdude.
+Quickly hacked together Arduino shield to program other Arduino's. Can also be used to program the old AT90S1200 microcontroller using avrdude. I used [AVRDUDESS 2.14](https://github.com/ZakKemble/AVRDUDESS/releases/tag/v2.14
+) with avrdude 7.0.
 
 ![](arduino%20as%20isp%20shield.jpg)
 
